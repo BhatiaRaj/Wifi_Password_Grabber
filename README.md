@@ -1,7 +1,3 @@
-Here’s a concise project description for your GitHub README:
-
----
-
 # WiFi Password Viewer
 
 A Python script to retrieve saved WiFi profiles and their passwords on a Windows system. This tool is designed for network administrators and power users to manage and document WiFi credentials.
@@ -16,7 +12,7 @@ A Python script to retrieve saved WiFi profiles and their passwords on a Windows
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/wifi-password-viewer.git
+   git clone https://github.com/BhatiaRaj/Wifi_Password_Grabber.git
    ```
 2. Install dependencies:
    ```bash
